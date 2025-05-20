@@ -14,6 +14,7 @@ I'm a recent graduate in Information Systems with a minor in UX Design. This rep
 
 ### 📱 Facebook Advertising Campaign Analysis  
 **Tools**: Tableau, Excel, PowerPoint  
+
 **Description**:  
 - Analyzed Facebook ad campaign data from an anonymous organization to explore how ad spend, impressions, demographics, and clicks influence conversion rates.
 - The project focuses on understanding the relationship between personalized targeting and consumer purchases.
