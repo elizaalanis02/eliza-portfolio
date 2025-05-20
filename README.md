@@ -7,6 +7,7 @@ I'm a recent graduate in Information Systems with a minor in UX Design. This rep
 **Live Dashboard** View on Tableau Public (https://public.tableau.com/app/profile/eliza.alanis2042/viz/FastFoodIndustry/RestaurantSalesTrends?publish=yes) 
 
 **Tools**: Tableau, Excel, Powerpoint
+
 **Description**:
 - Analyzed datasets on fast food and restaurant chains to uncover insights about sales trends, unit growth, and market rankings.
 - The dashboard includes filters and interactive visualizations for comparing chains based on sales volume, franchise models, and category segmentation.
