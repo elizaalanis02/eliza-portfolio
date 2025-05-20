@@ -3,7 +3,7 @@
 I'm a recent graduate in Information Systems with a minor in UX Design. This repository highlights some of the projects I’ve worked on, demonstrating my skills in data analytics featuring projects in SQL, Tableau, and Excel.
 
 ## Projects
-### 🍔 U.S Top 10 Fast Food Industry Analysis (./fast-food-industry-analysis/)
+### 🍔 U.S Top 10 Fast Food Industry Analysis
 **Live Dashboard** View on Tableau Public (https://public.tableau.com/app/profile/eliza.alanis2042/viz/FastFoodIndustry/RestaurantSalesTrends?publish=yes) 
 
 **Tools**: Tableau, Excel, Powerpoint
