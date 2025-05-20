@@ -3,7 +3,7 @@
 I'm a recent graduate in Information Systems with a minor in UX Design. This repository highlights some of the projects I’ve worked on, demonstrating my skills in data analytics featuring projects in SQL, Tableau, and Excel.
 
 ## Projects
-### 🍔 Food Industry Analysis Dashboard
+### 🍔 U.S Top 10 Fast Food Industry Analysis (./fast-food-industry-analysis/)
 **Tools**: Tableau, Excel, Powerpoint
 **Description**:  
 Analyzed datasets on fast food and restaurant chains to uncover insights about sales trends, unit growth, and market rankings. The dashboard includes filters and interactive visualizations for comparing chains based on sales volume, franchise models, and category segmentation.
