@@ -29,7 +29,7 @@ This project analyzes the effectiveness of Facebook advertising and its impact o
 <img src="./Conversion_Bar_Chart.png" alt="Conversion Bar Chart" width="600"/>
 
 ### Pivot Table Summary  
-<img src="./conversion_pivot_table.png" alt="Pivot Table" width="600"/>
+<img src="./Pivot_Tableable.png" alt="Pivot Table" width="600"/>
 
 ## 📄 Full Report
 Read the full paper that explains the research question, methods, data analysis, and conclusions:
