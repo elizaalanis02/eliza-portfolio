@@ -26,9 +26,9 @@ This project analyzes the effectiveness of Facebook advertising and its impact o
 
 ## Visuals
 ### Conversion Rates by Demographic Group  
-![Conversion Bar Chart] (./conversion_bar_chart.png)
+![Conversion Bar Chart](./Conversion_Bar_Chart.png)
 ### Pivot Table Summary  
-![Pivot Table](./conversion_pivot_table.png)
+![Pivot Table](./Pivot_Table.png)
 
 ## 📄 Full Report
 Read the full paper that explains the research question, methods, data analysis, and conclusions:
