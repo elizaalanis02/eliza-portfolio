@@ -45,7 +45,7 @@ This capstone project was developed for the Lifeguard Community, a nonprofit tha
 <h3> Participant Views</h3>
 
 <a href="./participant_dash.png">
-  <img src="./participant_dash.png" alt="Participant Dashboard" width="450"/>
+  <img src="./participant_dash.png" alt="Participant Dashboard" width="400"/>
 </a>
 
 <a href="./participant_view_submitting.png">
