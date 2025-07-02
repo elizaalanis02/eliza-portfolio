@@ -22,6 +22,8 @@ This capstone project was developed for the Lifeguard Community, a nonprofit tha
 - Created the lesson editor form using responsive flexbox layout  
 
 ## Files Included
+These images showcase several major features I worked on collaboratively, contributing to both design and development.
+
 <h3>Admin Views</h3>
 
 <a href="./admin_view.png">
