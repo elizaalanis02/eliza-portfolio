@@ -46,16 +46,16 @@ These images showcase several major features I worked on collaboratively, contri
 
 <h3> Participant Views</h3>
 
-<a href="./participant_dash.png">
-  <img src="./participant_dash.png" alt="Participant Dashboard" width="500"/>
-</a>
-
 <a href="./participant_view_submitting.png">
-  <img src="./participant_view_submitting.png" alt="Participant LessonPlan View - Submitting" width="400"/>
+  <img src="./participant_view_submitting.png" alt="Participant LessonPlan View - Submitting" width="450"/>
 </a>
 
 <a href="./participant_view_video.png">
-  <img src="./participant_view_video.png" alt="Participant LessonPlan View - Video" width="400"/>
+  <img src="./participant_view_video.png" alt="Participant LessonPlan View - Video" width="450"/>
+</a>
+
+<a href="./participant_dash.png">
+  <img src="./participant_dash.png" alt="Participant Dashboard" width="500"/>
 </a>
 
 ## Outcome
