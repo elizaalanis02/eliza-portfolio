@@ -14,7 +14,6 @@ This project analyzes the effectiveness of Facebook advertising and its impact o
 
 ## Files Included
 - `facebook_campaign_data.xlsx`
-- `Facebookads.twbx`
 - `The Influence of User Demographics and Ad Design on Facebook Purchase Behavior.ppt`
 
 ## Key Insights
