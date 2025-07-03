@@ -28,9 +28,10 @@ I'm a recent graduate in Information Systems with a minor in UX Design. This rep
 - Full-stack web application developed by a team of 10 for a nonprofit supporting formerly incarcerated individuals with mentorship and education.
 - Features include user login, lesson management, participant progress tracking, and admin dashboards.
 - I served as the **Product Owner and Frontend Developer**, building the individual participant admin view and a responsive lesson editor form.
-- Delivered in agile sprints over a 10-week period.  
-## 📫 Contact
+- Delivered in agile sprints over a 10-week period.
+- 
+## Contact
 Let’s connect!  
-📧 Email: elizaalanis02@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/eliza-alanis)
+Email: elizaalanis02@gmail.com  
+[LinkedIn](www.linkedin.com/in/eliza-alanis)
 
